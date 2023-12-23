@@ -1,0 +1,20 @@
+* {
+  font-family: "Fredoka", sans-serif;
+}
+
+.head-font {
+  font-family: "Permanent Marker", cursive;
+}
+
+body {
+  background-color: #242120;
+}
+
+.table-rounded {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+aside button {
+  position: relative;
+}
