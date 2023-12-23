@@ -1,6 +1,7 @@
 # Task Ninja
 
 Task Ninja is a web application designed to help users manage their tasks efficiently. The project aims to provide a practical implementation of CRUD (Create, Read, Update, Delete) operations, serving as a learning experience for web development enthusiasts. The application is live at [https://isebaey.github.io/task-ninja/](https://isebaey.github.io/task-ninja/).
+
 ![Task Ninja preview](https://github.com/isebaey/task-ninja/assets/102492335/0121fffa-a5d9-4931-9cab-09f3f3b771f6)
 
 
